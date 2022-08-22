@@ -1,4 +1,5 @@
 # Farmers’ adoption of climate change mitigation measures
+Link to our final report: https://docs.google.com/document/d/1IYOJ7ibMRlcDI27pSTVK6SU1vm0cm2v-p0rPMFW79GQ/edit?usp=sharing
 
 ## Introduction
 Climate change has been accelerating over the past few decades, and it threatens us with food and water scarcity, extreme weathers and extermination of a species. In a recent study conducted in 2019, 105 farmers in a region in Switzerland were surveyed about the mitigation measures taken to combat climate change. Also, the survey also collected information about the farmers’ individual characteristics, risk attitudes and social influences.
