@@ -8,6 +8,7 @@ With the data collected, we are interested in finding out how we can better leve
 
 ## Contents in Github Repo
 All dataset used in our study
+
 Coding for each type of analyses including regression, clustering, network analysis, and recommender system. 
 
 ## Regression Analysis
